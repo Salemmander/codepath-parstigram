@@ -1,0 +1,6 @@
+framework module Pods_Parstigram {
+  umbrella header "Pods-Parstigram-umbrella.h"
+
+  export *
+  module * { export * }
+}

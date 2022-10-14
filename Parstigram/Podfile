@@ -1,0 +1,21 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Parstigram' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Parstigram
+
+  target 'ParstigramTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'ParstigramUITests' do
+    # Pods for testing
+  end
+	
+  pod 'Parse'
+  pod 'AlamofireImage'
+end
