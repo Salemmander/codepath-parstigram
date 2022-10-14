@@ -35,6 +35,7 @@ class FeedViewController: UIViewController, UITableViewDelegate, UITableViewData
             }
             
         }
+        tableView.reloadData()
     }
     
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
