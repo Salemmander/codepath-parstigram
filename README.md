@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Salemmander/codepath-parstigram/blob/main/Parstigram%20Part%201.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Salemmander/codepath-parstigram/blob/main/ParstigramPart1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
  
